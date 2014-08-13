@@ -2,4 +2,4 @@ no_item_in_hands: '&cThere is no item in your hands to be enchanted with a &espo
 no_sponge: '&cCannot enchant because you don not have any &esponge'
 no_inventory: '&cYour inventory seems to be missing! Oops!'
 cannot_enchant: '&cCannot enchant the item in your hands'
-enchanted: '&cThe item held in you hands has been enchanted with &eone sponge'
+enchanted: '&cThe item held in your hands has been enchanted with &eone sponge'
