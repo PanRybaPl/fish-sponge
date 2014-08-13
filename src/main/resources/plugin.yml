@@ -1,0 +1,12 @@
+name: FishSponge
+version: 1.0
+main: pl.panryba.mc.sponge.Plugin
+commands:
+  sponge:
+    description: Enhance item in hands with a sponge
+    usage: /<command>
+    permission: fish.sponge.use
+permissions:
+  fish.sponge.use:
+    description: Allows using sponge to enhance an item
+    default: true
