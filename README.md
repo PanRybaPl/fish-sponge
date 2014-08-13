@@ -1,4 +1,4 @@
 Fish Sponge
 ===========
 
-Enchange items with a sponge
+Enchant items with a sponge
